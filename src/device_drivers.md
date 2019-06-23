@@ -12,3 +12,4 @@
   - generator
   - storage
   - monitor
+<!--- Do we care about Transmission? As a transmission provider I want to know the least cost route for energy --->
